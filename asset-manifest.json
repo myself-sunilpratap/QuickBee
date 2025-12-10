@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/QuickBee/static/css/main.93b48973.css",
+    "main.js": "/QuickBee/static/js/main.bf963f8e.js",
+    "static/js/453.10dc8616.chunk.js": "/QuickBee/static/js/453.10dc8616.chunk.js",
+    "static/media/samsung.jpg": "/QuickBee/static/media/samsung.95269a46d1af74112207.jpg",
+    "static/media/iqoo.jpg": "/QuickBee/static/media/iqoo.b54bddd4feedc3b55eb4.jpg",
+    "static/media/Nothing.jpg": "/QuickBee/static/media/Nothing.d40fd046db00ee44b270.jpg",
+    "static/media/motorola.jpg": "/QuickBee/static/media/motorola.aad599b39ab18cd9bb22.jpg",
+    "static/media/oneplus.jpg": "/QuickBee/static/media/oneplus.c90e3f68429f7e75fcdb.jpg",
+    "static/media/realme.jpg": "/QuickBee/static/media/realme.2e7a43fc607a469d7fb5.jpg",
+    "static/media/iphone.jpg": "/QuickBee/static/media/iphone.86d5bf4af7e5df83346e.jpg",
+    "static/media/oppo.jpg": "/QuickBee/static/media/oppo.fe36e85b3f02e38482da.jpg",
+    "static/media/poco.jpg": "/QuickBee/static/media/poco.c7f78228776e6ac95f77.jpg",
+    "static/media/vivo.jpg": "/QuickBee/static/media/vivo.7b9e22f2cb9863ee3b13.jpg",
+    "index.html": "/QuickBee/index.html",
+    "main.93b48973.css.map": "/QuickBee/static/css/main.93b48973.css.map",
+    "main.bf963f8e.js.map": "/QuickBee/static/js/main.bf963f8e.js.map",
+    "453.10dc8616.chunk.js.map": "/QuickBee/static/js/453.10dc8616.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93b48973.css",
+    "static/js/main.bf963f8e.js"
+  ]
+}
